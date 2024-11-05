@@ -1,4 +1,5 @@
-# Les media queries en CSS3
+Les media queries en CSS3
+---
 
 ## Introduction aux Media Queries
 
@@ -22,6 +23,11 @@ Les types de média les plus courants sont :
 - `print` : pour l'impression
 - `all` : pour tous les types de médias
 
+## Des vars dans la requêtes
+Si vous êtes comme moi, vous avez probablement poussé *les variables CSS / propriétés personnalisées* à leurs limites lors de la création de vos propres systèmes de conception. 
+Mais cette « solution miracle » peut conduire à un obstacle désagréable : 
+⚠️``vous ne pouvez pas les utiliser dans les déclarations de requêtes multimédias.``
+
 ## Conditions courantes
 
 Les conditions les plus utilisées sont :
@@ -29,6 +35,7 @@ Les conditions les plus utilisées sont :
 - `min-width` : largeur minimale de l'écran
 - `max-width` : largeur maximale de l'écran
 - `orientation` : orientation de l'appareil (portrait ou paysage)
+
 
 ## Exemple pratique
 
