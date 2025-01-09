@@ -2,6 +2,7 @@
 # Exercice : Création d'une mise en page responsive avec Media Queries
 
 ### Objectif
+
 Créer une page web simple avec une en-tête, une barre latérale et un contenu principal qui s'adapte à différentes tailles d'écran.
 
 ### Instructions
@@ -117,4 +118,6 @@ Ajoutez une media query pour les écrans très larges (plus de 1200px) qui limit
 
 Testez votre page en redimensionnant la fenêtre du navigateur pour voir comment la mise en page s'adapte aux différentes tailles d'écran.
 
-Cet exercice vous permettra de pratiquer l'utilisation des media queries pour créer un design responsive qui s'adapte à différentes tailles d'écran.
+Cet exercice vous permettra de pratiquer l'utilisation des media queries pour créer un design plus complexe et  responsive dans la suite des cours.
+
+👩🏻‍💻 *Practice and enjoy coding !*

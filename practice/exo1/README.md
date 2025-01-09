@@ -34,3 +34,5 @@ Il est ensuite possible d'utiliser les différentes astuces :
 `overflow`  pour permettre de scroller avec la souris dans un élément container ;
 
 `min-width`  et  `max-width`  pour définir des tailles minimum et maximum.
+
+🤖 HAPPY CODING !
